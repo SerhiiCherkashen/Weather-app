@@ -1,0 +1,60 @@
+.wrapperW {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(189, 233, 216);
+  width: 90%;
+  height: 600px;
+  border-radius: 30px;
+}
+.select-weather-W {
+  margin: 30px;
+  /* background-color: bisque; */
+  width: 1000px;
+  border-radius: 20px;
+}
+.selW {
+  width: 400px;
+  font-size: 30px;
+  border-radius: 20px;
+}
+.storyW {
+  margin: 20px;
+  /* background-color: bisque; */
+  border-radius: 20px;
+}
+.sky-img {
+  width: 200px;
+}
+.forecast-weather-W {
+  /* margin-top: 170px; */
+  background-color: rgb(178, 206, 230);
+  border-radius: 30px;
+}
+.forecast-counters {
+  display: flex;
+  justify-content: space-around;
+}
+.boxStory {
+  border: solid 1px;
+  border-radius: 20px;
+  font-size: 30px;
+  margin-top: 10px;
+  /* background-color: red; */
+}
+.o {
+  background-color: rgb(180, 224, 224);
+}
+.languageButton {
+  margin-left: 10px;
+  font-size: 50px;
+  border-radius: 20px;
+  border: 0;
+  border: medium none;
+  background-image: none;
+  background: transparent;
+  float: left;
+  background-color: transparent;
+}
